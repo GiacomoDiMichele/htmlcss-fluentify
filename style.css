@@ -182,24 +182,24 @@ nav {
     line-height: 1.6;
 }
 
-.real-life-english{
+.real-life-english {
     width: 100%;
     padding: 30px 0px;
     position: relative;
 }
 
-.immagine-lezione img{
+.immagine-lezione img {
     width: 668px;
 }
 
-.immagine-lezione{
+.immagine-lezione {
     width: 50%;
     display: inline-block;
     float: left;
     padding: 100px 0px;
 }
 
-.real-life-english-content{
+.real-life-english-content {
     margin-left: 40px;
     width: calc(50% - 40px);
     display: inline-block;
@@ -207,29 +207,29 @@ nav {
     padding: 80px 0px;
 }
 
-#grey-title{
+#grey-title {
     color: #737373;
     margin-left: 5px;
 }
 
-.real-life-english-content h2{
+.real-life-english-content h2 {
     color: #65DE82;
     font-size: 2.4em;
     line-height: 50px;
     padding-bottom: 30px;
 }
 
-.list{
+.list {
     padding: 20px 0px;
 }
 
-.list h4{
+.list h4 {
 font-size: 1.7em;
 padding-bottom: 10px;
 color: #011B50;
 }
 
-.list p{
+.list p {
     padding-bottom: 28px;
     color: #838383;
     border-bottom: 1px solid #DEE2E6;
@@ -239,7 +239,7 @@ color: #011B50;
     width: 100%;
 }
 
-.equipment h3{
+.equipment h3 {
     width: 100%;
     text-align: center;
     font-size: 2.2em;
@@ -247,6 +247,8 @@ color: #011B50;
 }
 
 .tutorial {
+    padding: 40px 0px;
+    margin: 20px 20px;
     text-align: center;
     display: inline-block;
     float: left;
@@ -254,10 +256,21 @@ color: #011B50;
     min-height: 231px;
 }
 
-.tutorial-equipments{
+.tutorial-equipments {
     width: 100%;
 }
 
-.tutorial img{
+.tutorial img {
     width: 140px;
+}
+
+.tutorial h5 {
+    color: #0E2759;
+    font-size: 1.3em;
+}
+
+.tutorial p {
+    color: #989898;
+    font-size: 0.9em;
+    font-weight: 200;
 }
