@@ -281,16 +281,33 @@ color: #011B50;
 
 .app-content{
     float: left;
-    width: 50%;
+    width: calc(50% - 30px);
+    margin-left: 30px;
 }
 
 .app-content h4 {
     color: white;
     font-size: 1.8em;
-    padding: 30px 0px;
+    padding-top: 55px;
+    padding-bottom: 30px;
+}
+
+.app-content p {
+    color: white;
+}
+
+#green-content {
+    color: #65DE82;
+    padding-top: 30px;
+    padding-bottom: 40px;
 }
 
 .app-img {
     float: left;
     width: 50%;
+}
+
+.app-img img{
+    width: 50%;
+    margin-left: 10%;
 }
