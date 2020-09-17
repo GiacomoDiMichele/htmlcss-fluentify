@@ -307,7 +307,69 @@ color: #011B50;
     width: 50%;
 }
 
-.app-img img{
+.app-img img {
     width: 50%;
     margin-left: 10%;
+    display: block;
+}
+
+.platform-type {
+    width: 100%;
+}
+
+.pc-img {
+    width: 50%;
+    float: left;
+}
+
+.pc-img img {
+    margin: 20px 45px;
+}
+
+#content-platform {
+    width: 50%;
+    float: left;
+}
+
+#content-platform h5 {
+    margin-top: 25%;
+    margin-bottom: 12px;
+    color: #011B50;
+    font-size: 1.4em;
+}
+
+#content-platform p {
+    color: #A2A2A2;
+}
+
+.buy-plan {
+    width: 100%;
+    background-color: #2A4781;
+}
+
+.title-plan {
+    width: 50%;
+    float: left;
+}
+
+.title-plan h4 {
+    line-height: 42px;
+    color: white;
+    font-size: 2em;
+    padding: 40px 0px;
+}
+
+.button-plan {
+    width: 50%;
+    float: left;
+}
+
+.button-plan p {
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 15px;
+}
+
+#penultimate-section {
+    margin-bottom: 55px;
 }
